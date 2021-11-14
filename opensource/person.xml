@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PersonList>
+    <Person>
+        <name>cyberadam</name>
+        <email>ggangpae1@gmail.com</email>
+    </Person>
+    <Person>
+        <name>군계</name>
+        <email>itstudy@kakao.com</email>
+    </Person>
+</PersonList>
