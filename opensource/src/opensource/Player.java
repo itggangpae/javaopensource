@@ -9,19 +9,6 @@ public class Player {
 	private String email;
 	private String nickname;
 	
-	public Player() {
-		super();
-		// TODO Auto-generated constructor stub
-	}
-	public Player(String name, int age, Date birth, String email, String nickname) {
-		super();
-		this.name = name;
-		this.age = age;
-		this.birth = birth;
-		this.email = email;
-		this.nickname = nickname;
-	}
-	
 	public String getName() {
 		return name;
 	}

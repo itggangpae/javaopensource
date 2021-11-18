@@ -53,7 +53,9 @@ public class JsonCreate {
 		
 		ObjectMapper mapper = new ObjectMapper();
 		try {
+			//mapper.writeValue(file, employee1);
 			mapper.writeValue(file, Arrays.asList(employee1, employee2));
+			
 		} catch (Exception e) {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
